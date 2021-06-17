@@ -10,7 +10,7 @@ Bu AtikSiniflandirma1 Android Uygulaması yapılırken izlenen yol şu şekilded
       Configure Your Project alanında Uygulama adi AtikSiniflandirma1 olarak ele alındı
 # 3.	build.gradle dosyasını güncelleme (.app uzantılı olan)
       dosya içinde en alta aşağıdaki kütüphane referansı eklenir : 
-      implementation 'com.google.mlkit:image-labeling:17.0.1'
+      implementation 'com.google.mlkit:image-labeling-custom:16.3.1'
       Ayrıca aynı dosyada Android sekmesinde aşağıdaki ayar eklenir ki .tflite formatlı model bloke olmasın:
       aaptOptions{
       noCompress "tflite"
