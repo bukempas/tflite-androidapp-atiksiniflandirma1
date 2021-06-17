@@ -1,4 +1,4 @@
-# 	build.gradle dosyasını güncelleme (.app uzantılı olan)
+#   build.gradle dosyasını güncelleme (.app uzantılı olan)
 #   res/layout/activity_main.xml dosyasını güncelleme (kullanıcı arayüzü oluşturma)
 #   src/main/assets dosyası güncelleme
 #   src/main/java/com.google.devrel.AtikSiniflandirma1/MainActivity.kt güncelleme
