@@ -1,4 +1,4 @@
-package com.google.devrel.AtikSiniflandirma1
+package com.google.devrel.atiksiniflandirma1
 
 import android.content.Context
 import android.graphics.Bitmap
