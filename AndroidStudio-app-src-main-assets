@@ -1,2 +1,3 @@
-# Reveal in Finder ile İndirilenler dosyasından glass9.jpg ve deneme.tflite dosylarını asstes doyasına kopyalayıp yapıştırmak. (mac ile)
-(‘Show in Explorer' on Windows, and ‘Show in Files' on Linux.)
+# Mac bilgisayarlar için 'Reveal in Finder' (‘Show in Explorer'  Windows, ‘Show in Files' Linux) 
+ile İndirilenler dosyasından glass9.jpg ve deneme.tflite dosylarını assets doyasına kopyalayıp yapıştırmak. 
+
