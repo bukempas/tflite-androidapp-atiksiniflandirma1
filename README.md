@@ -21,3 +21,6 @@ Bu AtikSiniflandirma1 Android Uygulaması yapılırken izlenen yol şu şekilded
 # 6.	src/main/java/com.google.devrel.AtikSiniflandirma1/MainActivity.kt güncelleme
       bu örnekte kotlin kullanılmaktadır.
 # 7.	Emulator veya Andorid cihaz ile test etme
+
+![image](https://user-images.githubusercontent.com/59708846/122398188-51341d00-cf82-11eb-8043-3d57da3cabd5.png)
+
