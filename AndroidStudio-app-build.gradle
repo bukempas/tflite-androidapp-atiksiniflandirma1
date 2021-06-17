@@ -10,7 +10,7 @@ android {
         noCompress "tflite"
     }
     defaultConfig {
-        applicationId "com.google.devrel.imageclassifierstep2"
+        applicationId "com.google.devrel.atiksiniflandirma1"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
