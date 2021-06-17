@@ -7,7 +7,7 @@ Bu AtikSiniflandirma1 Android Uygulaması yapılırken izlenen yol şu şekilded
       atiksiniflandirma1_tflite.py dosyası
       num_label: 6, labels: cardboard_mavi, glass_yesil, metal_gri, paper_mavi, plastic_sari, trash_cop
 # 2.	Android Studio ile “Create a New Project” 
-      "Configure Your Project" alanında Uygulama adi "AtikSiniflandirma1" olarak ele alındı
+      "Configure Your Project" alanında Uygulama adi "atiksiniflandirma1" olarak ele alındı
 # 3.	build.gradle dosyasını güncelleme (.app uzantılı olan)
       dosya içinde en alta aşağıdaki kütüphane referansı eklenir : 
       implementation 'com.google.mlkit:image-labeling-custom:16.3.1'
